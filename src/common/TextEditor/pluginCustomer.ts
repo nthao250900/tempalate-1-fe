@@ -1,0 +1,25 @@
+import plugins from "suneditor/src/plugins";
+import mergeTag from "./plugin";
+export const PluginImport = [
+ plugins.blockquote,
+ plugins.align,
+ plugins.font,
+ plugins.fontSize,
+ plugins.fontColor,
+ plugins.hiliteColor,
+ plugins.horizontalRule,
+ plugins.list,
+ plugins.table,
+ plugins.formatBlock,
+ plugins.lineHeight,
+ plugins.template,
+ plugins.paragraphStyle,
+ plugins.textStyle,
+ plugins.link,
+ plugins.image,
+ plugins.video,
+ plugins.audio,
+ plugins.math,
+ plugins.imageGallery,
+ //  mergeTag,
+];

@@ -1,0 +1,1 @@
+export const ADMIN_QUERY_ORDER = "ADMIN_QUUERY_ORDER";
