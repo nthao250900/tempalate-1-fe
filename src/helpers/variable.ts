@@ -1,1 +1,1 @@
-export const API_SERVER = "https://api-template-1.thanhhaonguyen.com";
+export const API_SERVER = "http://localhost:8080";
